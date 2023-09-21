@@ -1,0 +1,10 @@
+com\example\BookPublisherManager\BookPublisherManagerApplication.class
+com\example\BookPublisherManager\daos\Dao.class
+com\example\BookPublisherManager\contractors\IDao.class
+com\example\BookPublisherManager\controller\BookPublisherManagerController.class
+com\example\BookPublisherManager\mappers\BookMapper.class
+com\example\BookPublisherManager\models\Publisher.class
+com\example\BookPublisherManager\contractors\IRepository.class
+com\example\BookPublisherManager\repository\Repository.class
+com\example\BookPublisherManager\models\Book.class
+com\example\BookPublisherManager\mappers\PublisherMapper.class
